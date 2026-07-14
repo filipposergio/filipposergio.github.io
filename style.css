@@ -1,3 +1,10 @@
+/* ---------------------------------------------------------------
+   Shared stylesheet for filipposergio.github.io
+   Style: essenziale, accademico, "carta e inchiostro" -- niente
+   animazioni, niente decorazioni superflue. Pensato per essere
+   riutilizzato tal quale dalle pagine dei sotto-progetti.
+   ------------------------------------------------------------- */
+
 :root{
   --paper: #FAF8F5;
   --ink: #1E1E1E;
